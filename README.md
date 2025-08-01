@@ -5,7 +5,7 @@
     alt="C#"
     title="C#" 
     width="30px" 
-    style="padding-right: 10px;" 
+    style="padding-right: 10px, margin-top: 10px"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" 
 />          
 <img 
