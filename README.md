@@ -6,7 +6,6 @@
     title="C#" 
     width="30px" 
     style="padding-right: 10px;"
-    style="margin-top: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" 
 />          
 <img 
