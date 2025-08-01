@@ -16,5 +16,5 @@
 
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=narantAO2&layout=compact,theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=narantAO2&layout=compact&theme=dracula)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=narantAO2&hide=contribs,prs,&theme=dracula)
