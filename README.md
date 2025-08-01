@@ -17,5 +17,4 @@
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=narantAO2&layout=compact)
-<br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=narantAO2&hide=contribs,prs,&theme=dracula)
