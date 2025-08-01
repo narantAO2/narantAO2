@@ -73,7 +73,7 @@
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height= 200px
+      height= 200
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=narantAO2&theme=dracula&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
