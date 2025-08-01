@@ -15,9 +15,8 @@
 </div>
 
 
-
 ‹div»
-‹a href-"https://beacons.al/rafaballerinJ*>
-<img height-"180cm" src-"https://github-readme-stats.vercel.app/api?usernane-rafaballerini&show_icons-trueßtheme-draculaßinclude_all_commits-true&count_private-true*L›
-<img height="180cm" src-"https://github-readme-stats.vercel.app/apj/top-langs/7username=rafaballerin1&layout=compact&langs_count=168theme=dracula*L›
+‹a href-"https://beacons.al/rafaballerini">
+<img height-"180cm" src-"https://github-readme-stats.vercel.app/api?usernane-narantAO2&show_icons-trueßtheme-draculaßinclude_all_commits-true&count_private-true*L›
+<img height="180cm" src-"https://github-readme-stats.vercel.app/apj/top-langs/7username=narantAO2&layout=compact&langs_count=168theme=dracula*L›
 </div›
