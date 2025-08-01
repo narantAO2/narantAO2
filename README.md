@@ -137,15 +137,14 @@
   <img 
     align="left" 
     alt="GitHub Stats" 
-    height="200px" 
-    style="padding-right: 10px;" 
+    height="200"
     src="https://github-readme-stats.vercel.app/api?username=narantAO2&show_icons=true&theme=dracula&include_all_commits=true&locale=pt-br" 
   />
 
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height= "180px"
+      height= "180"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=narantAO2&theme=dracula&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
