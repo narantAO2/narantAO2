@@ -71,7 +71,7 @@
 <img 
       align="left" 
       alt="GitHub Stats" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=narantAO2&theme=dracula&layout=donutchart&custom_title=Tecnologias&langs_count=9" 
+      src="[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naratAO2&layout=donut)](https://github.com/anuraghazra/github-readme-stats)" 
   />
 
 </p>
