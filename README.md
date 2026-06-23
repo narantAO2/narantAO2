@@ -1,5 +1,7 @@
 # Olá, eu sou Gabriel 👋
 
+---
+
 💻 Desenvolvedor de Software  
 🎓 Estudante de Engenharia de Software  
 🚀 Atualmente trabalhando com desenvolvimento e sistemas internos 
