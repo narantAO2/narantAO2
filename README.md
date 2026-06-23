@@ -1,7 +1,5 @@
 # Olá, eu sou Gabriel 👋
 
----
-
 💻 Desenvolvedor de Software  
 🎓 Estudante de Engenharia de Software  
 🚀 Atualmente trabalhando com desenvolvimento e sistemas internos 
@@ -76,7 +74,21 @@
 
 ---
 
-### 📊 Estatísticas
+## 📊 Estatísticas do GitHub
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=narantAO2&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=narantAO2&layout=donut&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+<table>
+  <tr>
+    <td>
+      <img 
+        height="180em" 
+        src="https://github-readme-stats.vercel.app/api?username=narantAO2&show_icons=true&theme=tokyonight" 
+      />
+    </td>
+    <td>
+      <img 
+        height="180em" 
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=narantAO2&layout=donut&theme=tokyonight" 
+      />
+    </td>
+  </tr>
+</table>
